@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kaylazethelyn/static/css/main.e0631f9e.css",
+    "main.js": "/kaylazethelyn/static/js/main.e2583730.js",
+    "static/js/453.dc034ee8.chunk.js": "/kaylazethelyn/static/js/453.dc034ee8.chunk.js",
+    "static/media/logo.svg": "/kaylazethelyn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kaylazethelyn/index.html",
+    "main.e0631f9e.css.map": "/kaylazethelyn/static/css/main.e0631f9e.css.map",
+    "main.e2583730.js.map": "/kaylazethelyn/static/js/main.e2583730.js.map",
+    "453.dc034ee8.chunk.js.map": "/kaylazethelyn/static/js/453.dc034ee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0631f9e.css",
+    "static/js/main.e2583730.js"
+  ]
+}
